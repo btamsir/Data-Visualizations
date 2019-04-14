@@ -29,7 +29,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 
 
-![Figure 1 - Global Temperatures for the past 425,000 years.](/Users/Bryan/Desktop/RProjects/against.jpg)
+![Figure 1 - Global Temperatures for the past 425,000 years.](https://github.com/btamsir/Data-Visualizations/blob/master/against.jpg)
 
 **Figure 1 Overall Score**
 
@@ -43,7 +43,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 2 - Separating Human and Natural Influences on Climate.](/Users/Bryan/Desktop/RProjects/humansnatural.png)
+![Figure 2 - Separating Human and Natural Influences on Climate.](https://github.com/btamsir/Data-Visualizations/blob/master/humansnatural.png)
 
 **Figure 2 Overall Score**
 
@@ -57,7 +57,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 3 - Climate Change is Rewriting History Books](/Users/Bryan/Desktop/RProjects/coolmonths.jpg) 
+![Figure 3 - Climate Change is Rewriting History Books](https://github.com/btamsir/Data-Visualizations/blob/master/coolmonths.jpg) 
 
 **Figure 3 Overall Score**
 
@@ -96,7 +96,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
     + Aesthetics and Hierarchy - 16
     + Chart Junk - 16
     + Integrity - 10
-    + [Source : Figure 5](https://www.vox.com/2014/6/5/5779040/7-reasons-America-fail-global-warming)
+    + [Source : Figure 5](https://github.com/btamsir/Data-Visualizations/blob/master/voxprojected.jpg)
 
 ***
 ### Visualization Assessment 
