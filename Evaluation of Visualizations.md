@@ -8,7 +8,7 @@ Title: Evaluation of Climate Change Charts and Graphs
 
 > Visualizations should be efficient, punctual, informative, peak interest, and tailored to the audience with the latter being of utmost importance. A presenter must research and understand the audience to minimize wasted time and maximize communication. If a general audience is present and the visualization is far too technical, complicated visualizations will be wasted on the audience resulting in stagnant informative progress. A visualization should exclude junk and distractions while focusing on the underlying message (Borkin *et* all. 2013). 
 
-First, we must define key metrics to evaluate any and all visualizations. This rubrik will score visualizations out of 100. There are five categories to assess and each visualization can be awarded a maximum points of the percentage allotment of these respective categories. 
+First, we must define key metrics to evaluate any and all visualizations. This rubrik will score visualizations out of 100. There are five categories to assess and each visualization can be awarded a maximum points of the percentage allotment of these respective categories. The following framework can be derived by insights from Borkin's paper titled "What Makes a Visualization Memorable." 
 
 **Evaluation and Framework** 
 
