@@ -1,0 +1,142 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+``` {Working Directory}
+setwd("C:/Users/Bryan/Desktop/RProjects")
+library(rmarkdown)
+``` 
+---
+Title: "Evaluation of Climate Change Charts and Graphs"
+Author: "Bryan Tamsir"
+Santa Clara University
+Date: 4/12/2019
+---
+
+## What constitutes a good visualization? 
+
+> Visualizations should be efficient, punctual, informative, peak interest, and tailored to the audience with the latter being of utmost importance. A presenter must research and understand the audience to minimize wasted time and maximize communication. If a general audience is present and the visualization is far too technical, complicated visualizations will be wasted on the audience resulting in stagnant informative progress. A visualization should exclude junk and distractions while focusing on the underlying message (Borkin *et* all. 2013). 
+
+First, we must define key metrics to evaluate any and all visualizations. This rubrik will score visualizations out of 100. There are five categories to assess and each visualization can be awarded a maximum points of the percentage allotment of these respective categories. 
+
+**Evaluation and Framework** 
+
+1. (30%) **Story Telling** 
+  + Numbers can only tell you so much. Does this visualization provide the numbers a plausible story in proper context for a given situation? Does the visualization engage the audience?   
+2. (20%) **Memorability** 
+  + In context, does the chart prove a message to the audience that is easily digestable and memorable? Does the given story reach the audience which enables them to better recall the visualiation. 
+3. (20%) **Aesthetics and Hierarchy** 
+  + Upon first glance at the chart, humans attempt to identify patterns, designs, and information that stand out. A good visualization will purposely take advantage of human cognition and forefront important attributes. Is this the right visualization to use and is it hard to read? 
+4. (20%) **Chart Junk**
+  + Does the chart have unneccessary clutter, information, and/or junk? If the chart presents itself as clean? Does the presenter have the audience's interests in mind or is the visualization too technical? 
+5. (10%) **Integrity** 
+  + Does this visualization maintain data integrity? Does it skew data by formating visualization metrics such as the axis, legends, colors, etc...? 
+
+
+
+*** 
+
+
+
+![Figure 1 - Global Temperatures for the past 425,000 years.](/Users/Bryan/Desktop/RProjects/against.jpg)
+
+**Figure 1 Overall Score**
+
+* **Overall Score : 90**
+    + Story Telling - 25 
+    + Memorability - 20
+    + Aesthetics and Hierarchy - 20
+    + Chart Junk - 16
+    + Integrity - 8
+    + [Source - Figure 1](http://petesplace-peter.blogspot.com/2007/04/global-temperature-variation-for-past.html) 
+
+***
+
+![Figure 2 - Separating Human and Natural Influences on Climate.](/Users/Bryan/Desktop/RProjects/humansnatural.png)
+
+**Figure 2 Overall Score**
+
+* **Overall Score : 80**
+    + Story Telling - 24 
+    + Memorability - 13
+    + Aesthetics and Hierarchy - 15
+    + Chart Junk - 18
+    + Integrity - 10
+    + [Source : Figure 2](https://archive.epa.gov/epa/climate-change-science/causes-climate-change.html)
+
+***
+
+![Figure 3 - Climate Change is Rewriting History Books](/Users/Bryan/Desktop/RProjects/coolmonths.jpg) 
+
+**Figure 3 Overall Score**
+
+* **Overall Score : 83**
+    + Story Telling - 26 
+    + Memorability - 18
+    + Aesthetics and Hierarchy - 16
+    + Chart Junk - 13
+    + Integrity - 10
+    + [Source : Figure 3](https://www.climatecentral.org/news/628-months-since-the-world-had-cool-month-21365)
+
+***
+
+![Figure 4 - Average Temperature](/Users/Bryan/Desktop/RProjects/averagetemp.png) 
+
+**Figure 4 Overall Score**
+
+* **Overall Score : 76**
+    + Story Telling - 25 
+    + Memorability - 17
+    + Aesthetics and Hierarchy - 14
+    + Chart Junk - 10
+    + Integrity - 10
+    + [Source : Figure 4](https://www.ncdc.noaa.gov/sotc/global/201813)
+
+
+***
+
+![Figure 5 - Average Global Temperatures Relative to 1981-2000 Average](/Users/Bryan/Desktop/RProjects/voxprojected.jpg) 
+
+**Figure 5 Overall Score**
+
+* **Overall Score : 85**
+    + Story Telling - 30 
+    + Memorability - 18
+    + Aesthetics and Hierarchy - 16
+    + Chart Junk - 16
+    + Integrity - 10
+    + [Source : Figure 5](https://www.vox.com/2014/6/5/5779040/7-reasons-America-fail-global-warming)
+
+***
+### Visualization Assessment 
+
+**Figure 1, Score: 90**
+
+Figure 1 engages audience viewers by arguing against climate change with data dating half a million years. The visualization partitions below and above average yearly temperatures with blue and red hues to accentuate the message. The author and presenter of this visualization will most likely have had a strong story to tell which is in direct contrast to current beliefs on the state of climate change. The memorability of this chart is decent because of the hue partition and has minimal junk. The axises are labeled properly but can be edited to increase clarity. This visualization depicts the peaks and valleys for climate change over a breathtakingly long amount of time and suggests current warming is normal. The source of climate data stems from drilling frozen blocks or cyllinders of ice and analyzing the oxygen and other gas elements found within each layer of ice which dates back to 450,000 years.  
+
+**Figure 2, Score: 80**
+
+Figure 2 has clearly labeled and presented legends which distinguishes the different groups. However, there are instances of ambiguity where these observations overlap, for instance, in years 1940 - 1960. The message is portraying that an increase in global temperature is associated with human factors. Memorability is low since the gap between natural and human factors versus natural factors only is relatively small. The main takeaway is the black observation line, which was not initially the first takeaway for the audience, thus recieves a lot heirarchy and aesthetic score. There is minimal chart junk and the chart is presenting observed data which maintains data integrity. 
+
+**Figure 3, Score: 83**
+
+Figure 3 does a good job at portraying the main message of increasing climate temperatures. Furthermore, the starting year is 1860 and further partitioned into 12 columns with each year colored with hues of red or blue to signify above or below average temperatures. As a result of color pallete, organization, and clear axis label, this visualization receives a high memorability and aesthetic score. 
+
+
+**Figure 4, Score: 76**
+
+Figure 4 showcases an array of countries on the X-axis and year, from 1880, on the Y-axis with red/blue dots representing above or below average temperatures. The message is clear, the average temperature for every country has increased to dark red in recent years. However, the axis labels are immaculately difficult to discern and the hierarchy is ambigious at best. As a result, the chart junk score is low. There are missing values within countries but that results in high integrity. 
+
+**Figure 5, Score: 85**
+
+Figure 5 has good axis X and Y - axis labels. The y axis is actually a double Y - axis representing both C and F degrees. The message is extremely strong but the integrity of their projection comes into question. We can see that from 1850 to present day that there is an increase in average global temperatures, but if we were to regress the known data, I would assume the outcome would be an increase of approximately 2-4 degrees fahrenheit. This projection model forecasts a staggering increase of 6-12 degrees fahrenheit which would be only explained by an low exponential function. As a result, the data integrity recieves a low score. 
+
+
+
+
+
+**References** 
+
+1. M. A. Borkin et al., "What Makes a Visualization Memorable?," in IEEE Transactions on Visualization and Computer Graphics, vol. 19, no. 12, pp. 2306-2315, Dec. 2013.
+doi: 10.1109/TVCG.2013.234
