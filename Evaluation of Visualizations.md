@@ -86,7 +86,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 5 - Average Global Temperatures Relative to 1981-2000 Average](/Users/Bryan/Desktop/RProjects/voxprojected.jpg) 
+![Figure 5 - Average Global Temperatures Relative to 1981-2000 Average](https://github.com/btamsir/Data-Visualizations/blob/master/voxprojected.jpg) 
 
 **Figure 5 Overall Score**
 
@@ -96,7 +96,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
     + Aesthetics and Hierarchy - 16
     + Chart Junk - 16
     + Integrity - 10
-    + [Source : Figure 5](https://github.com/btamsir/Data-Visualizations/blob/master/voxprojected.jpg)
+    + [Source : Figure 5](https://www.vox.com/2014/6/5/5779040/7-reasons-America-fail-global-warming)
 
 ***
 ### Visualization Assessment 
