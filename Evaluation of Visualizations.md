@@ -71,7 +71,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 4 - Average Temperature by Country](/Users/Bryan/Desktop/RProjects/averagetemp.png) 
+![Figure 4 - Average Temperature by Country](https://github.com/btamsir/Data-Visualizations/blob/master/averagetemp.png) 
 
 **Figure 4 Overall Score**
 
