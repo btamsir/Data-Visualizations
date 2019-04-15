@@ -122,9 +122,10 @@ Figure 4 showcases an array of countries on the X-axis and year, from 1880, on t
 
 Figure 5 has good axis X and Y - axis labels. The y axis is actually a double Y - axis representing both C and F degrees. The message is extremely strong but the integrity of their projection comes into question. We can see that from 1850 to present day that there is an increase in average global temperatures, but if we were to regress the known data, I would assume the outcome would be an increase of approximately 2-4 degrees fahrenheit. This projection model forecasts a staggering increase of 6-12 degrees fahrenheit which would be only explained by an low exponential function. As a result, the data integrity recieves a low score. 
 
+*** 
 
-
-
+**Conclusion** 
+Data can rhetorically or ambigiously used for communcation and it is up to the user to understand the power they have. Data can be skewed and manipulated using visualization that could potentially mislead the audience into believing a false narrative. The visualizations presented here show four similar conclusions of increasing global climate change while one is stating that climate change is cyclical. What is important are visual aesthetic attributes such as colors, readability, and minimal junk. But what is of even greater importance is the connection to the audience and presenter's message. On top of visualization, the presenter should possess the energy, enthusiasm, and charisma to portray a memorable slide deck. In conclusion, visualizations have the inherent capability to inform the audience in an easy and digestible way. What separates a great visualization from an everyday one is the above criteria mentioned and the connection to the audience. 
 
 **References** 
 
