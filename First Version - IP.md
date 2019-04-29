@@ -7,7 +7,7 @@ output: html_document
 
 ## The Making Of. 
 
-> This RMD/MD file documents the making of three distinct, unique, non-trivial, and somewhat surprising visualizations for the mayor of Chicago regarding the Speed Camera Violations dataset. 
+> This RMD/MD file documents the making of three distinct, unique, non-trivial, and somewhat surprising visualizations for the mayor of Chicago regarding the Speed Camera Violations dataset. These three visualizations are to convey visualizations that are somewhat unexpected but yet holds the audience into valuable account. The audience is the mayor and the message is to identify the decreasing violations trend, but more work needs to be done.
 
 **Visualization #1, Violation Time Trend** 
 *** 
