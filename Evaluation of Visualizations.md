@@ -29,7 +29,11 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 
 
+<<<<<<< HEAD
 ![Figure 1 - Global Temperatures for the past 425,000 years.](/Images/against.jpg)
+=======
+![Figure 1 - Global Temperatures for the past 425,000 years.](https://github.com/btamsir/Data-Visualizations/tree/master/Images/against.jpg)
+>>>>>>> 990297b70c3f35c95a034ce176ae9bbc40d3121a
 
 **Figure 1 Overall Score**
 
