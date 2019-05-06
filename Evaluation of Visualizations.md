@@ -29,7 +29,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 
 
-![Figure 1 - Global Temperatures for the past 425,000 years.](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/against.jpg)
+![Figure 1 - Global Temperatures for the past 425,000 years.](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/against.jpg?raw=true)
 
 **Figure 1 Overall Score**
 
@@ -43,7 +43,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 2 - Separating Human and Natural Influences on Climate.](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/humansnatural.png)
+![Figure 2 - Separating Human and Natural Influences on Climate.](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/humansnatural.png?raw=true)
 
 **Figure 2 Overall Score**
 
@@ -57,7 +57,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 3 - Climate Change is Rewriting History Books](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/coolmonths.jpg) 
+![Figure 3 - Climate Change is Rewriting History Books](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/coolmonths.jpg?raw=true) 
 
 **Figure 3 Overall Score**
 
@@ -71,7 +71,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 4 - Average Temperature by Country](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/averagetemp.png) 
+![Figure 4 - Average Temperature by Country](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/averagetemp.png?raw=true) 
 
 **Figure 4 Overall Score**
 
@@ -86,7 +86,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 5 - Average Global Temperatures Relative to 1981-2000 Average](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/voxprojected.jpg) 
+![Figure 5 - Average Global Temperatures Relative to 1981-2000 Average](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/voxprojected.jpg?raw=true) 
 
 **Figure 5 Overall Score**
 
