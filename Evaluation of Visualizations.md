@@ -29,7 +29,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 
 
-![Figure 1 - Global Temperatures for the past 425,000 years.](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/against.jpg?raw=true)
+![Figure 1 - Global Temperatures for the past 425,000 years.](https://github.com/btamsir/Data-Visualizations/tree/master/Images/against.jpg)
 
 **Figure 1 Overall Score**
 
