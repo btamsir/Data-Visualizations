@@ -8,7 +8,7 @@ Title: Evaluation of Climate Change Charts and Graphs
 
 > Visualizations should be efficient, punctual, informative, peak interest, and tailored to the audience with the latter being of utmost importance. A presenter must research and understand the audience to minimize wasted time and maximize communication. If a general audience is present and the visualization is far too technical, complicated visualizations will be wasted on the audience resulting in stagnant informative progress. A visualization should exclude junk and distractions while focusing on the underlying message (Borkin *et* all. 2013). 
 
-First, we must define key metrics to evaluate any and all visualizations. This rubrik will score visualizations out of 100. There are five categories to assess and each visualization can be awarded a maximum points of the percentage allotment of these respective categories. The following framework can be derived by insights from Borkin's paper titled "What Makes a Visualization Memorable." 
+First, we must define key metrics to evaluate any and all visualizations. This rubrik will score visualizations out of 100. There are five categories to assess and each visualization can be awarded a maximum points of the percentage allotment of these respective categories.The following framework can be derived by insights from Borkin's paper titled "What Makes a Visualization Memorable." 
 
 **Evaluation and Framework** 
 
@@ -29,7 +29,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 
 
-![Figure 1 - Global Temperatures for the past 425,000 years.](https://github.com/btamsir/Data-Visualizations/blob/master/against.jpg)
+![Figure 1 - Global Temperatures for the past 425,000 years.](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/against.jpg)
 
 **Figure 1 Overall Score**
 
@@ -43,7 +43,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 2 - Separating Human and Natural Influences on Climate.](https://github.com/btamsir/Data-Visualizations/blob/master/humansnatural.png)
+![Figure 2 - Separating Human and Natural Influences on Climate.](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/humansnatural.png)
 
 **Figure 2 Overall Score**
 
@@ -57,7 +57,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 3 - Climate Change is Rewriting History Books](https://github.com/btamsir/Data-Visualizations/blob/master/coolmonths.jpg) 
+![Figure 3 - Climate Change is Rewriting History Books](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/coolmonths.jpg) 
 
 **Figure 3 Overall Score**
 
@@ -71,7 +71,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 4 - Average Temperature by Country](https://github.com/btamsir/Data-Visualizations/blob/master/averagetemp.png) 
+![Figure 4 - Average Temperature by Country](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/averagetemp.png) 
 
 **Figure 4 Overall Score**
 
@@ -86,7 +86,7 @@ First, we must define key metrics to evaluate any and all visualizations. This r
 
 ***
 
-![Figure 5 - Average Global Temperatures Relative to 1981-2000 Average](https://github.com/btamsir/Data-Visualizations/blob/master/voxprojected.jpg) 
+![Figure 5 - Average Global Temperatures Relative to 1981-2000 Average](/Users/Bryan/Documents/GitHub/Data-Visualizations/Images/voxprojected.jpg) 
 
 **Figure 5 Overall Score**
 
@@ -122,10 +122,9 @@ Figure 4 showcases an array of countries on the X-axis and year, from 1880, on t
 
 Figure 5 has good axis X and Y - axis labels. The y axis is actually a double Y - axis representing both C and F degrees. The message is extremely strong but the integrity of their projection comes into question. We can see that from 1850 to present day that there is an increase in average global temperatures, but if we were to regress the known data, I would assume the outcome would be an increase of approximately 2-4 degrees fahrenheit. This projection model forecasts a staggering increase of 6-12 degrees fahrenheit which would be only explained by an low exponential function. As a result, the data integrity recieves a low score. 
 
-*** 
 
-**Conclusion** 
-Data can rhetorically or ambigiously used for communcation and it is up to the user to understand the power they have. Data can be skewed and manipulated using visualization that could potentially mislead the audience into believing a false narrative. The visualizations presented here show four similar conclusions of increasing global climate change while one is stating that climate change is cyclical. What is important are visual aesthetic attributes such as colors, readability, and minimal junk. But what is of even greater importance is the connection to the audience and presenter's message. On top of visualization, the presenter should possess the energy, enthusiasm, and charisma to portray a memorable slide deck. In conclusion, visualizations have the inherent capability to inform the audience in an easy and digestible way. What separates a great visualization from an everyday one is the above criteria mentioned and the connection to the audience. 
+
+
 
 **References** 
 
