@@ -11,6 +11,9 @@ output: html_document
 
 *** 
 
+The full project can be seen here. 
+[Tableau Public Project](https://public.tableau.com/profile/btamsir#!/vizhome/FirstVersion-IP/Dashboard1?publish=yes)
+
 ## Data Explanation and Data Cleaning. 
 
 The original dataset is speed camera violations in Chicago where each record gives the number of violations captured by a particular camera on a given day. The dataset has data from 2014 to 2019, but years 2014 and 2019 have an incomplete dataset that doesn't cover all 12 months. As a result, I subsetted the data to contain data from 2015-2018. 
